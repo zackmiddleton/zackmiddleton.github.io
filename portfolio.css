@@ -126,8 +126,10 @@ a:hover {
 }
 
 a.about-me-link {
-    display: flex;
-    justify-content: right;
+    display: inline;
+    position: absolute;
+    top: 8px;
+    right: 16px;
   
 }
 
